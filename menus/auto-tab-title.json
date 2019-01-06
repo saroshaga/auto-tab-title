@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "tilify",
+        "command": "auto-tab-title:tilify"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "auto-tab-title",
+          "submenu": [
+            {
+              "label": "tilify",
+              "command": "auto-tab-title:tilify"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
