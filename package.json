@@ -1,10 +1,9 @@
 {
   "name": "auto-tab-title",
   "main": "./lib/auto-tab-title",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Mirrors first line of an untitled file to its tab title on command.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "auto-tab-title:tilify"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
