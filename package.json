@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "auto-tab-title:tilify"
   },
-  "repository": "https://github.com/atom/auto-tab-title",
+  "repository": "https://github.com/saroshaga/auto-tab-title",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
