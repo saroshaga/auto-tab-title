@@ -1,11 +1,11 @@
 {
   "name": "auto-tab-title",
   "main": "./lib/auto-tab-title",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mirrors first line of an untitled file to its tab title on command.",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "auto-tab-title:tilify"
+    "atom-workspace": "auto-tab-title:titlify"
   },
   "repository": "https://github.com/saroshaga/auto-tab-title",
   "license": "MIT",

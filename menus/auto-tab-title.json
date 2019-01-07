@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "tilify",
-        "command": "auto-tab-title:tilify"
+        "label": "titlify",
+        "command": "auto-tab-title:titlify"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "auto-tab-title",
           "submenu": [
             {
-              "label": "tilify",
-              "command": "auto-tab-title:tilify"
+              "label": "titlify",
+              "command": "auto-tab-title:titlify"
             }
           ]
         }
