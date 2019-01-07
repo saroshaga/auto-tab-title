@@ -1,7 +1,7 @@
 {
   "name": "auto-tab-title",
   "main": "./lib/auto-tab-title",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Mirrors first line of an untitled file to its tab title on command.",
   "keywords": [],
   "activationCommands": {
